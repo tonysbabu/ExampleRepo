@@ -1,3 +1,3 @@
 Git first commiit example......Added some more to know the diff
 
-Comparing staged area with repo
+Comparing staged area with repo.using desktop github now
